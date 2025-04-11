@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "WAJevWMDWcxRrgi+yG3Vr4l2Evjc4xeqIpXdMyjFKCI=",
+  "Source": "BugTracker.API",
+  "BasePath": "_content/BugTracker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BugTracker.API\\wwwroot",
+      "Source": "BugTracker.API",
+      "ContentRoot": "D:\\Bug Ticketing System\\BugTracker.API\\wwwroot\\",
+      "BasePath": "_content/BugTracker.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

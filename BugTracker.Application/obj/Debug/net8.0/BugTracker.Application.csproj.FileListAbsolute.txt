@@ -1,0 +1,17 @@
+D:\Bug Ticketing System\BugTracker.Application\obj\Debug\net8.0\BugTracker.Application.csproj.AssemblyReference.cache
+D:\Bug Ticketing System\BugTracker.Application\obj\Debug\net8.0\BugTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bug Ticketing System\BugTracker.Application\obj\Debug\net8.0\BugTracker.Application.AssemblyInfoInputs.cache
+D:\Bug Ticketing System\BugTracker.Application\obj\Debug\net8.0\BugTracker.Application.AssemblyInfo.cs
+D:\Bug Ticketing System\BugTracker.Application\obj\Debug\net8.0\BugTracker.Application.csproj.CoreCompileInputs.cache
+D:\Bug Ticketing System\BugTracker.Application\bin\Debug\net8.0\BugTracker.Application.deps.json
+D:\Bug Ticketing System\BugTracker.Application\bin\Debug\net8.0\BugTracker.Application.dll
+D:\Bug Ticketing System\BugTracker.Application\bin\Debug\net8.0\BugTracker.Application.pdb
+D:\Bug Ticketing System\BugTracker.Application\bin\Debug\net8.0\BugTracker.Data.dll
+D:\Bug Ticketing System\BugTracker.Application\bin\Debug\net8.0\BugTracker.Infrastructure.dll
+D:\Bug Ticketing System\BugTracker.Application\bin\Debug\net8.0\BugTracker.Data.pdb
+D:\Bug Ticketing System\BugTracker.Application\bin\Debug\net8.0\BugTracker.Infrastructure.pdb
+D:\Bug Ticketing System\BugTracker.Application\obj\Debug\net8.0\BugTrack.EAA4A2BB.Up2Date
+D:\Bug Ticketing System\BugTracker.Application\obj\Debug\net8.0\BugTracker.Application.dll
+D:\Bug Ticketing System\BugTracker.Application\obj\Debug\net8.0\refint\BugTracker.Application.dll
+D:\Bug Ticketing System\BugTracker.Application\obj\Debug\net8.0\BugTracker.Application.pdb
+D:\Bug Ticketing System\BugTracker.Application\obj\Debug\net8.0\ref\BugTracker.Application.dll

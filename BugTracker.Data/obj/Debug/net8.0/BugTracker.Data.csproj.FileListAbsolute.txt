@@ -1,0 +1,12 @@
+D:\Bug Ticketing System\BugTracker.Data\bin\Debug\net8.0\BugTracker.Data.deps.json
+D:\Bug Ticketing System\BugTracker.Data\bin\Debug\net8.0\BugTracker.Data.dll
+D:\Bug Ticketing System\BugTracker.Data\bin\Debug\net8.0\BugTracker.Data.pdb
+D:\Bug Ticketing System\BugTracker.Data\obj\Debug\net8.0\BugTracker.Data.csproj.AssemblyReference.cache
+D:\Bug Ticketing System\BugTracker.Data\obj\Debug\net8.0\BugTracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bug Ticketing System\BugTracker.Data\obj\Debug\net8.0\BugTracker.Data.AssemblyInfoInputs.cache
+D:\Bug Ticketing System\BugTracker.Data\obj\Debug\net8.0\BugTracker.Data.AssemblyInfo.cs
+D:\Bug Ticketing System\BugTracker.Data\obj\Debug\net8.0\BugTracker.Data.csproj.CoreCompileInputs.cache
+D:\Bug Ticketing System\BugTracker.Data\obj\Debug\net8.0\BugTracker.Data.dll
+D:\Bug Ticketing System\BugTracker.Data\obj\Debug\net8.0\refint\BugTracker.Data.dll
+D:\Bug Ticketing System\BugTracker.Data\obj\Debug\net8.0\BugTracker.Data.pdb
+D:\Bug Ticketing System\BugTracker.Data\obj\Debug\net8.0\ref\BugTracker.Data.dll

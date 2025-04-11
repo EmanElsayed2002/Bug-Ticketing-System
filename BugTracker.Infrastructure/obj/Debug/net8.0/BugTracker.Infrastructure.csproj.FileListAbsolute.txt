@@ -1,0 +1,17 @@
+D:\Bug Ticketing System\BugTracker.Infrastructure\bin\Debug\net8.0\BugTracker.Infrastructure.deps.json
+D:\Bug Ticketing System\BugTracker.Infrastructure\bin\Debug\net8.0\BugTracker.Infrastructure.runtimeconfig.json
+D:\Bug Ticketing System\BugTracker.Infrastructure\bin\Debug\net8.0\BugTracker.Infrastructure.dll
+D:\Bug Ticketing System\BugTracker.Infrastructure\bin\Debug\net8.0\BugTracker.Infrastructure.pdb
+D:\Bug Ticketing System\BugTracker.Infrastructure\bin\Debug\net8.0\BugTracker.Data.dll
+D:\Bug Ticketing System\BugTracker.Infrastructure\bin\Debug\net8.0\BugTracker.Data.pdb
+D:\Bug Ticketing System\BugTracker.Infrastructure\obj\Debug\net8.0\BugTracker.Infrastructure.csproj.AssemblyReference.cache
+D:\Bug Ticketing System\BugTracker.Infrastructure\obj\Debug\net8.0\BugTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bug Ticketing System\BugTracker.Infrastructure\obj\Debug\net8.0\BugTracker.Infrastructure.AssemblyInfoInputs.cache
+D:\Bug Ticketing System\BugTracker.Infrastructure\obj\Debug\net8.0\BugTracker.Infrastructure.AssemblyInfo.cs
+D:\Bug Ticketing System\BugTracker.Infrastructure\obj\Debug\net8.0\BugTracker.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Bug Ticketing System\BugTracker.Infrastructure\obj\Debug\net8.0\BugTrack.BF968350.Up2Date
+D:\Bug Ticketing System\BugTracker.Infrastructure\obj\Debug\net8.0\BugTracker.Infrastructure.dll
+D:\Bug Ticketing System\BugTracker.Infrastructure\obj\Debug\net8.0\refint\BugTracker.Infrastructure.dll
+D:\Bug Ticketing System\BugTracker.Infrastructure\obj\Debug\net8.0\BugTracker.Infrastructure.pdb
+D:\Bug Ticketing System\BugTracker.Infrastructure\obj\Debug\net8.0\BugTracker.Infrastructure.genruntimeconfig.cache
+D:\Bug Ticketing System\BugTracker.Infrastructure\obj\Debug\net8.0\ref\BugTracker.Infrastructure.dll
